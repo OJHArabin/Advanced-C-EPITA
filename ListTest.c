@@ -37,7 +37,7 @@ static void prString2 (void * s) {
  * for main list functionalities.
  *************************************************************/
 
-int ain() {
+int main() {
   int i;
   char * tab[] = {"hello", "Namaskar", "Bonjour",
 		  "rabin", "Hola" };
