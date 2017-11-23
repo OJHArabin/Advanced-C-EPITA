@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1511038319 source:c:\users\rabinkumar\desktop\rabinshotestpath\list.c
+	<stdio.h>
+	"List.h"
+
+1511034007 c:\users\rabinkumar\desktop\rabinshotestpath\list.h
+	<stdlib.h>
+	"status.h"
+
+1511041008 c:\users\rabinkumar\desktop\rabinshotestpath\status.h
+
+1511044217 source:c:\users\rabinkumar\desktop\rabinshotestpath\listtest.c
+	<stdio.h>
+	<string.h>
+	"List.h"
+
+1511039971 source:c:\users\rabinkumar\desktop\rabinshotestpath\map.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"map.h"
+
+1511034455 c:\users\rabinkumar\desktop\rabinshotestpath\map.h
+	"status.h"
+	"List.h"
+
+1511043733 source:c:\users\rabinkumar\desktop\rabinshotestpath\mapprocess.c
+	<stdio.h>
+	"List.h"
+	"map.h"
+	"string.h"
+
+1511041002 source:c:\users\rabinkumar\desktop\rabinshotestpath\status.c
+	"status.h"
+
